@@ -1,0 +1,23 @@
+kurso-de-esperanto (4.1.2.2-1ppa1) unstable; urgency=low
+
+  * Fixes Build dependencies and installation instructions
+
+ -- Mathieu Pellegrin <mpellegrin@users.noreply.github.com>  Mon, 02 Jan 2017 22:58:01 +0100
+
+kurso-de-esperanto (4.1.2.1-2ppa1) unstable; urgency=low
+
+  * Update Package dependencies
+
+ -- Mathieu Pellegrin <mpellegrin@users.noreply.github.com>  Mon, 02 Jan 2017 18:38:17 +0100
+
+kurso-de-esperanto (4.1.2.1-1) unstable; urgency=low
+
+  * Port to Qt5
+
+ -- Mathieu Pellegrin <mpellegrin@users.noreply.github.com>  Mon, 02 Jan 2017 17:23:58 +0100
+
+kurso-de-esperanto (4.1.2-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Mathieu Pellegrin <mpellegrin@users.noreply.github.com>  Mon, 02 Jan 2017 17:07:38 +0100

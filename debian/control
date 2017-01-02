@@ -1,0 +1,14 @@
+Source: kurso-de-esperanto
+Section: education
+Priority: optional
+Maintainer: Mathieu Pellegrin <mpellegrin@users.noreply.github.com>
+Build-Depends: debhelper (>=9), build-essential, qt5-qmake, g++, make, libphonon4qt5-dev, qtmultimedia5-dev, libqt5opengl5-dev, qt5-default
+Standards-Version: 3.9.6
+Homepage: https://github.com/mpellegrin/kurso-de-esperanto
+#Vcs-Git: git://anonscm.debian.org/collab-maint/kurso-de-esperanto.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/kurso-de-esperanto.git
+
+Package: kurso-de-esperanto
+Architecture: all
+Depends: ${misc:Depends}, phonon4qt5, libphonon4qt5-4, libqt5core5a, libqt5dbus5, libqt5xml5, libqt5opengl5
+Description: Kurso de Esperanto is a multimedia computer program for teaching yourself Esperanto.
