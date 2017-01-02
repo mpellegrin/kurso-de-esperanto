@@ -9,6 +9,9 @@ QT       += core gui widgets phonon4qt5 multimedia printsupport
 TARGET = kurso4
 TEMPLATE = app
 
+unix:install.target.path=/opt/kurso4
+unix:install.target.files = kurso4 bildoludo ekzercoj ikonoj pagxopiedo paneloj sonoj stiloj tiparoj tradukoj video
+unix:INSTALLS += install.target
 
 SOURCES += main.cpp\
         kurso.cpp \
@@ -134,115 +137,4 @@ RESOURCES += \
     paghopiedo.qrc
 	
 RC_FILE = ikono.rc
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
