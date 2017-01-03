@@ -9,6 +9,6 @@ Homepage: https://github.com/mpellegrin/kurso-de-esperanto
 #Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/kurso-de-esperanto.git
 
 Package: kurso-de-esperanto
-Architecture: all
+Architecture: any
 Depends: ${misc:Depends}, phonon4qt5, libphonon4qt5-4, libqt5core5a, libqt5dbus5, libqt5xml5, libqt5opengl5
 Description: Kurso de Esperanto is a multimedia computer program for teaching yourself Esperanto.
