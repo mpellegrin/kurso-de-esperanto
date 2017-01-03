@@ -1,7 +1,7 @@
 Source: kurso-de-esperanto
 Section: education
 Priority: optional
-Maintainer: Mathieu Pellegrin <mpellegrin@users.noreply.github.com>
+Maintainer: Mathieu Pellegrin <packages@pingveno.net>
 Build-Depends: debhelper (>=9), build-essential, qt5-qmake, g++, make, libphonon4qt5-dev, qtmultimedia5-dev, libqt5opengl5-dev, qt5-default
 Standards-Version: 3.9.6
 Homepage: https://github.com/mpellegrin/kurso-de-esperanto

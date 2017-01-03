@@ -1,0 +1,13 @@
+[Desktop Entry]
+Exec=/opt/kurso4/kurso4
+Version=4.0
+Name=Kurso
+X-GNOME-FullName=Kurso de Esperanto
+Comment=Multrimeda komputilprogramo por la memlernado de Esperanto
+Icon=/usr/share/icons/kurso4.ico
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Qt;Education;
+Keywords=Kurso;Esperanto;Learn
+

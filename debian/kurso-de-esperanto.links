@@ -1,0 +1,2 @@
+# Place a symlink to /usr/bin/
+/opt/kurso4/kurso4 /usr/bin/kurso4
